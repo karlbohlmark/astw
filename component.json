@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "ariya/esprima": "*"
+    "karlbohlmark/esprima": "*"
   },
   "development": {},
   "license": "MIT",
