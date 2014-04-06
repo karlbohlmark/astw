@@ -2,10 +2,10 @@
   "name": "astw",
   "repo": "karlbohlmark/astw",
   "description": "Walk the ast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
-    "karlbohlmark/esprima": "*"
+    "karlbohlmark/esprima": "1.0.4"
   },
   "development": {},
   "license": "MIT",
